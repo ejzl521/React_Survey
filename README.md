@@ -13,6 +13,7 @@
 - yarn add redux react-redux
 - yarn add firebase
 - yarn add redux-thunk
+- yarn add styled-components
 
 # Firestore & Redux설명 ↓↓↓
 - https://duckgugong.tistory.com/213
